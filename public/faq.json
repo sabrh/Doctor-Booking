@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is this website about?",
+    "answer": "This is a doctor appointment booking platform where you can find detailed profiles of doctors, check their availability, and book appointments conveniently online.",
+    "date_posted": "2025-04-01"
+  },
+  {
+    "question": "How do I book an appointment?",
+    "answer": "You can view available doctors on the homepage or use the search bar. Once you find a doctor, click on their profile and book an appointment from the details page.",
+    "date_posted": "2025-04-02"
+  },
+  {
+    "question": "Do I need to create an account?",
+    "answer": "Yes, you need to register or log in to your account to book appointments and view your booking history.",
+    "date_posted": "2025-04-03"
+  },
+  {
+    "question": "Is the appointment booking free?",
+    "answer": "Booking on the platform is free. However, consultation fees for each doctor are listed on their profiles and are payable at the hospital.",
+    "date_posted": "2025-04-04"
+  },
+  {
+    "question": "Where are the doctors located?",
+    "answer": "All doctors are affiliated with TMSS Medical College & Rafatullah Community Hospital, Bogura. Their location and visiting hours are provided on their profile pages.",
+    "date_posted": "2025-04-05"
+  },
+  {
+    "question": "How can I cancel or reschedule an appointment?",
+    "answer": "You can view and manage your appointments from the 'My Bookings' section. Please ensure to cancel or reschedule at least 24 hours in advance.",
+    "date_posted": "2025-04-06"
+  },
+  {
+    "question": "Are the doctors verified?",
+    "answer": "Yes, all doctors listed are registered professionals with their BMDC registration numbers displayed on their profiles.",
+    "date_posted": "2025-04-07"
+  },
+  {
+    "question": "Can I contact support if I have an issue?",
+    "answer": "Yes, you can reach out to us through the 'Contact Us' page for any technical or booking-related issues.",
+    "date_posted": "2025-04-08"
+  }
+]

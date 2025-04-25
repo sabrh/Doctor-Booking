@@ -1,0 +1,124 @@
+[
+    {
+      "image": "https://api.kyamch.org/asset/img/doctors/prof-dr-md-zulfikar-ali.jpg",
+      "name": "Dr. Md Zulfikar Ali",
+      "availability": "Mon-Wed, 10am-2pm",
+      "visitTime": "10am-2pm",
+      "experience": 12,
+      "qualification": "MBBS, FCPS (Medicine)",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-123456"
+    },
+    {
+      "image": "https://api.kyamch.org/asset/img/doctors/dr-most-nasrin-nigger.jpg",
+      "name": "Dr. Tasneem Karim",
+      "availability": "Tue-Thu, 2pm-6pm",
+      "experience": 10,
+      "qualification": "MBBS, DGO",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-234567"
+    },
+    {
+      "image": "https://emch.com.bd/wp-content/uploads/2021/06/Dr-Ismail-Hossain.jpg",
+      "name": "Dr. Ismail Hossain",
+      "availability": "Sun-Tue, 9am-1pm",
+      "experience": 15,
+      "qualification": "MBBS, MD (Cardiology)",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-345678"
+    },
+    {
+      "image": "https://doctorsdirectory.com.bd/wp-content/uploads/2025/02/Dr.-Syeda-Nur-E-Jannat.jpg",
+      "name": "Dr. Farhana Nahar",
+      "availability": "Wed-Fri, 4pm-8pm",
+      "experience": 8,
+      "qualification": "MBBS, MS (ENT)",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-456789"
+    },
+    {
+      "image": "https://smgkibria.com/wp-content/uploads/2024/05/best-surgeon-in-bangladesh.jpg",
+      "name": "Dr. Abdullah Hasan",
+      "availability": "Sat-Mon, 10am-3pm",
+      "experience": 8,
+      "qualification": "MBBS, FCPS (Surgery)",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-567890"
+    },
+    {
+      "image": "https://greenlifehospital.com.bd/frontend/img/fb_doctor_image/dr-mahbuba-shabnamfb_image1694854886.jpg",
+      "name": "Dr. Jannatul Akter",
+      "availability": "Mon-Thu, 3pm-7pm",
+      "experience": 6,
+      "qualification": "MBBS, BCS (Health), DCH",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-678901"
+    },
+    {
+      "image": "https://api.kyamch.org/asset/img/doctors/dr-husnayen-nanna.jpg",
+      "name": "Dr. Imran Hossain",
+      "availability": "Sun-Wed, 11am-4pm",
+      "experience": 9,
+      "qualification": "MBBS, MS (Orthopedics)",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-789012"
+    },
+    {
+      "image": "https://cdn.sasthyaseba.com/doctors/5774/5zB2HodcKy0r6XcEka8jkKEOdaAYyMmNjIwYv5pV/assoc-prof-dr-shahnaz-akhtar.jpg",
+      "name": "Dr. Nazneen Alam",
+      "availability": "Tue-Fri, 10am-2pm",
+      "experience": 11,
+      "qualification": "MBBS, FCPS (Gynecology)",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-890123"
+    },
+    {
+      "image": "https://uhlbd.com/unitedhospitalapi/public/DoctorProfileImg/202501260900Dr.%20Iqbal.jpg",
+      "name": "Dr. Tariq Mahmood",
+      "availability": "Mon-Wed, 6pm-9pm",
+      "experience": 7,
+      "qualification": "MBBS, MD (Neurology)",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-901234"
+    },
+    {
+      "image": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Farhana-Ahmed.jpg",
+      "name": "Dr. Lamia Ferdous",
+      "availability": "Sat-Tue, 9am-1pm",
+      "experience": 5,
+      "qualification": "MBBS, DCM",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-112345"
+    },
+    {
+      "image": "https://api.kyamch.org/asset/img/doctors/dr-mohammed-emran.jpg",
+      "name": "Dr. Shafiq Rahman",
+      "availability": "Thu-Sun, 3pm-6pm",
+      "experience": 9,
+      "qualification": "MBBS, FCPS (Dermatology)",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-223456"
+    },
+    {
+      "image": "https://sebadoctor.com/storage/admin/doctor/1659354920.jpg",
+      "name": "Dr. Sadia Yasmin",
+      "availability": "Sun-Wed, 10am-12pm",
+      "experience": 4,
+      "qualification": "MBBS, MPH",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fees": "900",
+      "registration": "BMDC-334567"
+    }
+  ]
+  
