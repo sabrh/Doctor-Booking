@@ -1,10 +1,13 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { NavLink, Link } from 'react-router'
+import LoginModal from '../pages/auth/LoginModal';
 
 import Logo from '../assets/logo.png'
 
 const Navbar = () => {
+  const [showLogin, setShowLogin] = useState(false);
     return (
+      <>
     <div className="navbar bg-gray-200 shadow-sm px-0 md:px-12 lg:px-20">
           <div className="navbar-start">
             <div className="dropdown">
@@ -32,9 +35,13 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn btn-primary rounded-full">Emergency</a>
+          <button onClick={() => setShowLogin(true)} className="btn btn-primary btn-outline mr-2 rounded-full">Login/ Signup</button>
+          <Link to='/emergency'><button className="btn btn-primary rounded-full">Emergency</button>
+          </Link>
         </div>
     </div>
+    <LoginModal isOpen={showLogin} onClose={() => setShowLogin(false)} />
+    </>
     )
 }
 

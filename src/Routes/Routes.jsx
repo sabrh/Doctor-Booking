@@ -3,11 +3,13 @@ import { createBrowserRouter } from 'react-router'
 import MainLayout from "../layouts/MainLayout";
 
 import Home from '../pages/Home'
+import Emergency from '../pages/Emergency'
 import ContactUs from '../pages/ContactUs'
 import FAQs from '../pages/FAQs'
 import MyBookings from '../pages/MyBookings'
 import DoctorDetails from '../pages/DoctorDetails'
 import ErrorPage from '../pages/ErrorPage'
+
 
 export const router = createBrowserRouter([
   {
@@ -21,7 +23,14 @@ export const router = createBrowserRouter([
             hydrateFallbackElement: <p>Loading... please wait</p>,
             loader: () => fetch('../doctors.json'),  
           },
-          
+          {
+            path: '/emergency',
+            Component: Emergency,     
+          },
+          {
+            path: '/contact',
+            Component: ContactUs,     
+          },
           {
             path: '/faq',
             Component: FAQs ,     
